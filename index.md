@@ -21,9 +21,7 @@ That said, it is, at the time of writing, for my personal use and benefit.
 * [about]({% about.md %})
 * 
 
-## Contact
 
-email: zoonalink@gmail.com
 
 
 
