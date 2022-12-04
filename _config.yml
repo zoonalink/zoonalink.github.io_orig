@@ -14,7 +14,8 @@ title: zoonalink
 
 # Your name to show in the footer
 author: p lovehagen
- 
+
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 
 ###############################################
 # --- List of links in the navigation bar --- #
