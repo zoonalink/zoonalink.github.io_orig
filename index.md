@@ -18,6 +18,7 @@ That said, it is, at the time of writing, for my personal use and benefit.
 ## Links
 
 * about
+* [about]({% about.md %})
 * 
 
 ## Contact
