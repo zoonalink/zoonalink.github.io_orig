@@ -23,7 +23,7 @@ remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 
 navbar-links:
   home: "index"
-  about: "about"
+  aboutme: "about"
   cpd: "CPD"
   reading: "https://www.goodreads.com/user/show/6989196-petter"
   #resources:
