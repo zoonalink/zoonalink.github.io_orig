@@ -19,7 +19,7 @@ author: p lovehagen
 # theme#
 ####################
 
-remote_theme: jekyll-theme-slate
+remote_theme: pages-themes/minimal@v0.2.0
 
 ###############################################
 # --- List of links in the navigation bar --- #
