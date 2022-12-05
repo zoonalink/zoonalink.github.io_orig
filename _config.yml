@@ -14,7 +14,12 @@ title: zoonalink
 
 # Your name to show in the footer
 author: p lovehagen
- 
+
+####################
+# theme#
+####################
+
+remote_theme: pages-themes/tactile@v0.2.0
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -22,7 +27,7 @@ author: p lovehagen
 
 navbar-links:
   home: "index"
-  about: "about"
+  aboutme: "about"
   cpd: "CPD"
   reading: "https://www.goodreads.com/user/show/6989196-petter"
   #resources:
@@ -290,6 +295,7 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-remote-theme
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
